@@ -1,4 +1,4 @@
-# week7
+# cowa0067 Vue Todo App - localstorage
 
 > Vue Todos for MTM6430-W18
 
